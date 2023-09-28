@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myBooking"
+        android:title="My Booking"
+        android:icon="@drawable/booking"/>
+
+    <item
+        android:id="@+id/scanQR"
+        android:title="Scan QR"
+        android:icon="@drawable/scan"/>
+
+    <item
+        android:id="@+id/bottom_Home"
+        android:title="Home"
+        android:icon="@drawable/scan"/>
+
+    <item
+        android:id="@+id/myQR"
+        android:title="My QR"
+        android:icon="@drawable/myqr"/>
+
+    <item
+        android:id="@+id/myProfile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>
